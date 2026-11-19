@@ -1,4 +1,7 @@
-# Quantum-Greedy-MVC
+# Iterative quantum algorithms for the minimum vertex cover and maximum independent set problem based on continuous-time quantum walks
+
+Code and experiments for iterative quantum algorithms for minimum vertex cover and maximum independent set using continuous-time quantum walks.
+Reference: https://arxiv.org/pdf/2607.27915
 
 A small Python package for solving:
 - **MVC**: weighted/unweighted Minimum Vertex Cover
@@ -46,7 +49,7 @@ print(mis.solution, mis.objective)
 - `primal_dual`
 - `exact` and `lp_relaxation`
 
-Reference: https://arxiv.org/pdf/2607.27915
+
 
 ## Notes
 
